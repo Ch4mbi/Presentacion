@@ -9,7 +9,8 @@ De dichas plataformas ,o personalmente, tomo apuntes que se pueden visualizar en
 - [Tryhackme](https://github.com/Ch4mbi/Apuntes/tree/main/THM)
 - [Personales](https://github.com/Ch4mbi/Apuntes/tree/main/Personales)
 
-También, hay un repositorio en el cual subo repirtes de como soluciono diferentes [CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file)
+También, hay un repositorio en el cual subo repirtes de como soluciono diferentes [CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file).
+
 Cuento con el nivel C1 en inglés.
 
 # Proyectos
