@@ -20,7 +20,7 @@ También, en la univeridad , o personalmente, hago proyectos en el repositorio d
 - [Analisis de la seguridad en el entorno financiero](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Cybersecurity-in-finance-%26-banking)
 - [Configuracion de entorno en localhost conectado a MongoDB sin seguridad y llevar ataques programados hacia ese mismo objetivo + teoría](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Mobile%20device%20%26%20data%20risks)
 - Analisis forense de discos duros + teoria de forense deigital(En preparación)
-- Uso de cisco packet tracer para crear escenario de conexión Madrid-Barcelona implementando diversas medidas de seguridad(En preparación)
+- Uso de cisco packet tracer para crear escenario ficticio de conexión Madrid-Barcelona implementando diversas medidas de seguridad de la red(En preparación)
 - Uso de kaggle para obtener un dataset y crear un modelo de predicción en base a ese dataset para predecir el pordentaje predictivo de que un usuario haya sufrido, o no, una brecha de datos, acorde a la lógica del dataset.(En preparación)
 
 # Skills/Herramientas
