@@ -47,3 +47,10 @@ También, en la univeridad , o personalmente, hago proyectos en el repositorio d
 # Perfil TryHackMe
 
 <img width="1183" height="264" alt="image" src="https://github.com/user-attachments/assets/d440998e-61dd-47a9-aa01-d403e39a5ecf" />
+
+- Rank: 93599(Top 5%)
+- 11 Badges
+- 229-day streak
+- 87 Completed rooms
+
+
