@@ -18,7 +18,7 @@ Cuento con el nivel C1 en inglés.
 También, en la univeridad , o personalmente, hago proyectos en el repositorio de [proyectos](https://github.com/Ch4mbi/Proyectos-personales). En dicho repositorio he subido, o voy a subir(Ya que debo pasarlos al formato correcto) proyectos propios o de la universidad que me parezcan relevantes:
 - [Analsis de memoria RAM usando Volatility](https://github.com/Ch4mbi/Proyectos-personales/tree/main/A-ciegas--Volatility)
 - [Analisis de la seguridad en el entorno financiero](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Cybersecurity-in-finance-%26-banking)
-- Configuracion de entorno en localhost conectado a MongoDB sin seguridad y llevar ataques programados hacia ese mismo objetivo + teoría (En preparación)
+- [Configuracion de entorno en localhost conectado a MongoDB sin seguridad y llevar ataques programados hacia ese mismo objetivo + teoría](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Mobile%20device%20%26%20data%20risks)
 - Analisis forense de discos duros + teoria de forense deigital(En preparación)
 - Uso de cisco packet tracer para crear escenario de conexión Madrid-Barcelona implementando diversas medidas de seguridad(En preparación)
 - Uso de kaggle para obtener un dataset y crear un modelo de predicción en base a ese dataset para predecir el pordentaje predictivo de que un usuario haya sufrido, o no, una brecha de datos, acorde a la lógica del dataset.(En preparación)
@@ -44,3 +44,6 @@ También, en la univeridad , o personalmente, hago proyectos en el repositorio d
     - MySQL
     - Markdown
 
+# Perfil TryHackMe
+
+<img width="1183" height="264" alt="image" src="https://github.com/user-attachments/assets/d440998e-61dd-47a9-aa01-d403e39a5ecf" />
