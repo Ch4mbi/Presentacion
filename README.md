@@ -1,6 +1,6 @@
 # Introducción
 
-Hola, soy estudiante de ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente voy por el tercer año de estudios con un enfoque porincipal en el campo de DFIR. 
+Hola, soy estudiante de ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente voy por el tercer año de estudios con un enfoque porincipal (personal) en el campo de DFIR. 
 
 # Sobre mí
 
