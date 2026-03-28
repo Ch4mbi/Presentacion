@@ -1,6 +1,6 @@
 # Introducción
 
-Hola, soy estudiante de ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente voy por el tercer año de estudios con un enfoque porincipal (personal) en el campo de DFIR. 
+Hola, soy estudiante de ciberseguridad (Cybersecurity & Hacking) en Madrid. Actualmente voy por el tercer año de estudios con un enfoque principal (personal) en el campo de DFIR. 
 
 # Sobre mí
 
@@ -9,21 +9,21 @@ De dichas plataformas ,o personalmente, tomo apuntes que se pueden visualizar en
 - [Tryhackme](https://github.com/Ch4mbi/Apuntes/tree/main/THM)
 - [Personales](https://github.com/Ch4mbi/Apuntes/tree/main/Personales)
 
-También, hay un repositorio en el cual subo repirtes de como soluciono diferentes [CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file).
+También, hay un repositorio en el cual subo reportes de como soluciono diferentes [CTFs](https://github.com/Ch4mbi/CTFs?tab=readme-ov-file).
 
 Cuento con el nivel C1 en inglés.
 
 # Proyectos
 
-También, en la univeridad , o personalmente, hago proyectos en el repositorio de [proyectos](https://github.com/Ch4mbi/Proyectos-personales). En dicho repositorio he subido, o voy a subir(Ya que debo pasarlos al formato correcto) proyectos propios o de la universidad que me parezcan relevantes:
-- [Analsis de memoria RAM usando Volatility](https://github.com/Ch4mbi/Proyectos-personales/tree/main/A-ciegas--Volatility)
-- [Analisis de la seguridad en el entorno financiero](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Cybersecurity-in-finance-%26-banking)
+También, en la universidad , o personalmente, hago proyectos que subo al repositorio de [proyectos](https://github.com/Ch4mbi/Proyectos-personales). En dicho repositorio he subido, o voy a subir(Ya que debo pasarlos al formato correcto) proyectos propios o de la universidad que me parezcan relevantes:
+- [Análsis de memoria RAM usando Volatility](https://github.com/Ch4mbi/Proyectos-personales/tree/main/A-ciegas--Volatility)
+- [Análisis de la seguridad en el entorno financiero(teórico)](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Cybersecurity-in-finance-%26-banking)
 - [Configuracion de entorno en localhost conectado a MongoDB sin seguridad y llevar ataques programados hacia ese mismo objetivo + teoría](https://github.com/Ch4mbi/Proyectos-personales/tree/main/Mobile%20device%20%26%20data%20risks)
-- [CTF Analisis de memoria usando autopsy](https://github.com/Ch4mbi/CTFs/tree/main/Disk-analysis-%26-Autopsy%20-THM)
+- [CTF Análisis de memoria usando autopsy](https://github.com/Ch4mbi/CTFs/tree/main/Disk-analysis-%26-Autopsy%20-THM)
 - [CTF sencillo de investigación de windows con un malware](https://github.com/Ch4mbi/CTFs/tree/main/Investigating%20Windows)
-- Analisis forense de discos duros + teoria de forense deigital(En preparación)
+- Análisis forense de discos duros + teoria de forense digital(En preparación)
 - Uso de cisco packet tracer para crear escenario ficticio de conexión Madrid-Barcelona implementando diversas medidas de seguridad de la red(En preparación)
-- Uso de kaggle para obtener un dataset y crear un modelo de predicción en base a ese dataset para predecir el pordentaje predictivo de que un usuario haya sufrido, o no, una brecha de datos, acorde a la lógica del dataset.(En preparación)
+- Uso de kaggle para obtener un dataset y crear un modelo de predicción en base a ese dataset para predecir el porcentaje predictivo de que un usuario haya sufrido, o no, una brecha de datos, acorde a la lógica del dataset.(En preparación)
 
 # Skills/Herramientas
 - Forense digital & DFIR
@@ -37,11 +37,11 @@ También, en la univeridad , o personalmente, hago proyectos en el repositorio d
 - Ofensivo
     - Nmap
     - Metasploit
-    - Gubuster(Conceptos/poco uso)
+    - Gobuster(Conceptos/poco uso)
 - Otros
     - Windows cmd
     - Linux
-    - VirtuabBox
+    - VirtualBox
     - MongoDB
     - MySQL
     - Markdown
